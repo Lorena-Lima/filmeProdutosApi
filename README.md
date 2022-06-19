@@ -3,9 +3,9 @@
 <h3> Avaliação Sprint 02 </h3>
 
 <p>
-Para utilização do banco de dados, utilizei o MySQL Workbench.
-user: "root"
-password: "Lore2510@"
+Para utilização do banco de dados, utilizei o MySQL Workbench.<br><br>
+user: "root"<br>
+password: "Lore2510@"<br><br>
 </p>
 
 <h4> Questão 01 </h4>
