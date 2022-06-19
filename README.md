@@ -2,6 +2,12 @@
 
 <h3> Avaliação Sprint 02 </h3>
 
+<p>
+Para utilização do banco de dados, utilizei o MySQL Workbench.
+user: "root"
+password: "Lore2510@"
+</p>
+
 <h4> Questão 01 </h4>
 <p>
 Para essa questão, eu criei a Database "produto" e a tabela "produto" por meio do MySQL Workbench
