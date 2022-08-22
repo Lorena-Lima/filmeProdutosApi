@@ -1,6 +1,4 @@
-<h1>Sprint-02</h1>
-
-<h3> Avaliação Sprint 02 </h3>
+<h1>Documentação</h1>
 
 <p>
 Para utilização do banco de dados, utilizei o MySQL Workbench.<br><br>
@@ -8,7 +6,7 @@ user: "root"<br>
 password: "Lore2510@"<br><br>
 </p>
 
-<h4> Questão 01 </h4>
+<h4> Produtos </h4>
 <p>
 Para essa questão, eu criei a Database "produto" e a tabela "produto" por meio do MySQL Workbench
 e cadastrei os produtospor meio do IntelliJ. <br>
@@ -26,7 +24,7 @@ CREATE TABLE `produto`.`produto`(<br>
 PRIMARY KEY (`id`));”<br>
 </p>
 
-<h4> Questão 02 </h4>
+<h4> Filmes </h4>
 <p>
 Para essa questão, eu criei a Database "filme" e as tabelas "pagina1" e "pagina2" por meio do MySQL Workbench
 e cadastrei os filmes por meio do IntelliJ. <br>
