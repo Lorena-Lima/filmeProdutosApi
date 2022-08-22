@@ -50,8 +50,7 @@ CREATE TABLE `filme`.`pagina2` (<br>
 PRIMARY KEY (`id`));<br>
   </p>
 
-<h4>Questão 3</h4>
-<p>Nessa questão, usei apenas i IntelliJ, visto que não havia a necessidade de armazenar os dados, apenas de compará-los.</p>
+
 
 
 
